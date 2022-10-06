@@ -1,0 +1,13 @@
+.fiveImg{
+    padding: 14px 10px;
+    margin-top : 20px;
+    margin-bottom: 20px;
+    border: 1px solid grey;
+}
+.row{
+display: flex;
+justify-content: space-around;
+}
+.lastImg{
+border: 1px solid black;
+}
